@@ -1,6 +1,6 @@
 <p align="center"><img src='https://github.com/user-attachments/assets/0cbbe770-96d4-472a-af8c-fefba3b159d4' width=200></p>
 
-# 🎯 ChicCheck - Smart Self Attendance Check With Liveness Detection  
+# ChicCheck - Smart Self Attendance Check With Liveness Detection  
 
 ## 📌 Project Overview  
 **ChicCheck** is an AI-powered attendance system that ensures secure and effortless attendance tracking. Using **liveness detection**, it prevents fake check-ins via photos, videos, or masks. This system operates in **real-time**, verifying identities instantly and **eliminating manual roll calls**. It maintains **detailed timestamped records**, making attendance **simple, fast, and reliable**.  

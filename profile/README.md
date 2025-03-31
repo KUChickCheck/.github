@@ -13,9 +13,9 @@
 ## 🏗️ Repository Structure  
 ChicCheck consists of **three main repositories**:  
 
-1️⃣ **[chiccheck-backend](https://github.com/your-org/chiccheck-backend)** – Built with **Express.js** and **MongoDB** for managing the backend services.  
-2️⃣ **[chiccheck-frontend](https://github.com/your-org/chiccheck-frontend)** – Developed with **React.js** for an intuitive user experience.  
-3️⃣ **[liveness-model](https://github.com/your-org/liveness-model)** – Uses **FastAPI** to deploy the liveness detection model as an API.  
+1️⃣ **[chiccheck-backend](https://github.com/KUChickCheck/chiccheck-backend)** – Built with **Express.js** and **MongoDB** for managing the backend services.  
+2️⃣ **[chiccheck-frontend](https://github.com/KUChickCheck/chiccheck-frontend)** – Developed with **React.js** for an intuitive user experience.  
+3️⃣ **[liveness-model](https://github.com/KUChickCheck/liveness-model)** – Uses **FastAPI** to deploy the liveness detection model as an API.  
 
 ## 🛠️ Technologies Used  
 - **Backend**: Express.js, MongoDB  
@@ -26,9 +26,9 @@ ChicCheck consists of **three main repositories**:
 Each repository has its own **README** with installation instructions. Clone the required repositories and follow the setup steps.  
 
 ```bash
-git clone https://github.com/your-org/chiccheck-backend.git
-git clone https://github.com/your-org/chiccheck-frontend.git
-git clone https://github.com/your-org/liveness-model.git
+git clone https://github.com/KUChickCheck/chiccheck-backend.git
+git clone https://github.com/KUChickCheck/chiccheck-frontend.git
+git clone https://github.com/KUChickCheck/liveness-model.git
 ```
 
 ## 👨‍💻 Authors

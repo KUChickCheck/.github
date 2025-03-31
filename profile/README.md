@@ -1,3 +1,5 @@
+<p align="center"><img src='https://github.com/user-attachments/assets/0cbbe770-96d4-472a-af8c-fefba3b159d4' width=200></p>
+
 # 🎯 ChicCheck - Smart Self Attendance Check With Liveness Detection  
 
 ## 📌 Project Overview  
